@@ -1,18 +1,19 @@
-# TallerKushau
+# RICK AND MORTY CHARACTERS OFFICIAL PAGE®
 
-TALLERKUSHAU es el projecto de la evaluacion n°1 de programacion web del instituto Duoc UC.
+RICK AND MORTY CHARACTERS OFFICIAL PAGE® es el proyecto de la evaluacion de programacion web del instituto Duoc UC.
 
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * bootstrap
+* java scrip
 * [VisualStudio] 
 * [HTML5]
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/indigonet/TallerKushau) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/indigonet/RICK AND MORTY CHARACTERS OFFICIAL PAGE®) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 
 ## Autores ✒️
