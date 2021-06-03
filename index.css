@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://weloveiconfonts.com/api/?family=fontawesome|typicons);
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: url();
+	
+		background-repeat: space;
+}
+.header{
+    
+z-index: 1;
+
+}
+.lol{
+    color: chartreuse;
+  }
+
+  footer .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 25px;
+    
+  }
+  footer .contenedor {
+    justify-content: space-between;
+  }
