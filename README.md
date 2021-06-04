@@ -10,6 +10,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * java scrip
 * [VisualStudio] 
 * [HTML5]
+* Css
 
 ## Contribuyendo 🖇️
 
