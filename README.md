@@ -26,7 +26,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Diego Cifuentes** 
 * **Mario Diaz** 
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/indigonet/TallerKushau) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/indigonet/RICK-AND-MORTY-CHARACTERS-OFFICIAL-PAGE) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
