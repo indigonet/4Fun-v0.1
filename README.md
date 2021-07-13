@@ -1,6 +1,6 @@
 # Projecto: 4Fun
 
-RICK AND MORTY CHARACTERS OFFICIAL PAGE® es el proyecto de la evaluacion de programacion web del instituto Duoc UC.
+4Fun® es el proyecto de la evaluacion de programacion web del instituto Duoc UC.
 
 ## Construido con 🛠️
 
